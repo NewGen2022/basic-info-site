@@ -1,0 +1,18 @@
+{
+    "name": "c",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index",
+        "dev": "nodemon index"
+    },
+    "author": "NewGen",
+    "license": "ISC",
+    "devDependencies": {
+        "nodemon": "^3.1.4"
+    },
+    "dependencies": {
+        "uuid": "^10.0.0"
+    }
+}
