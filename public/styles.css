@@ -32,7 +32,7 @@ body {
 
 button {
     border-radius: 7px;
-    padding: 7px 10px;
+    padding: 10px;
     border: 1px solid black;
     cursor: pointer;
 }
@@ -41,6 +41,24 @@ button:hover {
 }
 button:active {
     transform: scale(0.95);
+}
+
+.home-text {
+    text-shadow: 0 0 20px purple;
+    color: rgb(200, 0, 200);
+}
+
+.contact-text {
+    text-shadow: 0 0 20px #00ffff;
+}
+
+.about-text {
+    text-shadow: 0 0 20px #fffb00;
+}
+
+.error-text {
+    text-shadow: 0 0 20px red;
+    color: red;
 }
 
 .home:hover {
