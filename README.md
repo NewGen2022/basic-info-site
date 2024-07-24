@@ -14,7 +14,6 @@
 - View three available pages: Home (/), About (/about), Contact Me(/contact)
 
 # App preview
-![]()
-![]()
-![]()
-![]()
+![](https://github.com/NewGen2022/basic-info-site/blob/main/app_preview/photo_1.jpg)
+![](https://github.com/NewGen2022/basic-info-site/blob/main/app_preview/photo_2.jpg)
+![](https://github.com/NewGen2022/basic-info-site/blob/main/app_preview/photo_3.jpg)
